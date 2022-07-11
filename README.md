@@ -6,7 +6,7 @@ https://github.com/sagemath/sage-windows/releases
 Tres utile pour evaluer une expression , un calcul ou generer une courbe
 sans devoir installer SageMAths
 https://sagecell.sagemath.org/
-# tutoriel sage coubres elliptiques
+# tutoriel sage courbes elliptiques
 http://www.lix.polytechnique.fr/~goncalves/Downloads/TP2_Courbes-elliptiques-TUTO.pdf
 
 
