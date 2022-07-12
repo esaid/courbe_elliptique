@@ -8,6 +8,7 @@ sans devoir installer SageMAths
 https://sagecell.sagemath.org/
 # tutoriel sage courbes elliptiques
 http://www.lix.polytechnique.fr/~goncalves/Downloads/TP2_Courbes-elliptiques-TUTO.pdf
-
+# lien factoriser des entiers 
+https://perso.univ-rennes1.fr/reynald.lercier/file/Ler93.pdf
 
 
